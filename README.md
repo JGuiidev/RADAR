@@ -5,13 +5,13 @@
 **🎉 Accepted by NeurIPS 2026**
 
 <p>
-  <a href="https://arxiv.org/abs/xxxx.xxxx"><strong>📄 Paper</strong></a>
+  <a href="https://arxiv.org/abs/2610.14944"><strong>📄 Paper</strong></a>
   &nbsp;•&nbsp;
   <a href="https://github.com/JGuiidev/RADAR"><strong>💻 Code</strong></a>
 </p>
 
 <p>
-  <a href="https://arxiv.org/abs/xxxx.xxxx"><img src="https://img.shields.io/badge/arXiv-xxxx.xxxx-b31b1b.svg" alt="arXiv"></a>
+  <a href="https://arxiv.org/abs/2610.14944"><img src="https://img.shields.io/badge/arXiv-2610.14944-b31b1b.svg" alt="arXiv"></a>
   <a href="https://neurips.cc/"><img src="https://img.shields.io/badge/NeurIPS-2026-4b44ce.svg" alt="NeurIPS 2026"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10+-3776ab.svg" alt="Python 3.10+"></a>
   <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-2.9.0-ee4c2c.svg" alt="PyTorch 2.9.0"></a>
